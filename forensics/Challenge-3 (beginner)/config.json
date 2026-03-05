@@ -1,0 +1,9 @@
+{
+    "author": "vx",
+    "challengeName": "Fractonacci", 
+    "challengeDescription": "Beautiful. Red. Fractonacci. What could this mean??", 
+    "minPoints": 100,
+    "maxPoints": 500,
+    "category": "Forensics",
+    "flag": "flag{n3wt0n_fr4c74l5_4r3_b34u71ful}"
+}

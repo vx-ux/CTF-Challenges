@@ -1,0 +1,9 @@
+{
+    "author": "vx",
+    "challengeName": "Complete Chaos",
+    "challengeDescription": "We just found out two network captures from the same night. First one is whispering something in the air while the other is transmitting data over \"silent\" sounds. Unravel the mystery and end this chaos.",
+    "minPoints": 100,
+    "maxPoints": 500,
+    "category": "Forensics",
+    "flag": "flag{wifi_b34c0n_fr4m3s_4nd_ul7r4s0n1c_ggw4v3_1s_cr4zy}"
+}

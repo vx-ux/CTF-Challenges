@@ -1,0 +1,9 @@
+{
+    "author": "vx",
+    "challengeName": "Exp-Golomb", 
+    "challengeDescription": "I just received these files and don't know what is going on, I hope you can piece these things up and tell me what is being hidden. Wrap the message in flag{}.", 
+    "minPoints": 100,
+    "maxPoints": 500,
+    "category": "Forensics",
+    "flag": "flag{h265_3nc0d1ng_1s_r34lly_g00d_f0r_4K_v1d}"
+}
